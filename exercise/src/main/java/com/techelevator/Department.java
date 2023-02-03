@@ -1,3 +1,5 @@
+package com.techelevator;
+
 public class Department {
     private int departmentId;
     private String name;
